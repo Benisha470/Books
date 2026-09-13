@@ -1,0 +1,6 @@
+{
+  "name": "ZIA BOOKS",
+  "description": "Discover Stories. Explore Worlds. Premium modern online bookstore featuring curated fiction, best sellers, new arrivals, and timeless literary collections.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
